@@ -1,0 +1,13 @@
+.footer{
+    background-color: rgb(106, 4, 15, 0.6);
+    margin-top: auto;
+    color: white;
+}
+
+.icon{
+    margin: 10px;
+}
+
+.name{
+    margin-top: 10px;
+}

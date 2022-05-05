@@ -1,0 +1,9 @@
+.icon{
+    height: 40px;
+    width: 40px;
+    margin: 10px;
+}
+
+.icon:hover{
+    transform: scale(1.5);
+}
